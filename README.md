@@ -1,5 +1,4 @@
-# E-commerce app for buying/selling mobile
-## School Project
+# E-commerce app for buying/selling mobile (School Project)
 
-# Tech Stack: 
+## Tech Stack: 
 ReactJS, .NET Core
